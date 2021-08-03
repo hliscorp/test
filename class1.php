@@ -2,5 +2,7 @@
 
 class class1
 {
-
+    function cc(){
+        echo "dsadasdsa";
+    }
 }
