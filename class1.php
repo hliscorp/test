@@ -4,6 +4,7 @@ class class1
 {
     function cc(){
         echo "dsadasdafdadddddddddsdsaadsdffffsdsdsadadfdsdfsdfdsdss";
-        echo "dsadasdafdaddfdsdddddddsdsaadsffffdsdsdsadadfdsfdsfsdfsdfdfdsdfsdfdsdss";
+        echo "dfdsfs";
+        echo "dsadasdafdaddfdsdddddddsdsaadsffffdsdsdsadadfdsfdsfsdfsdfdfdsdfsdfdsdssfdfsdfdsfds";
     }
 }
