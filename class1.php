@@ -3,6 +3,7 @@
 class class1
 {
     function cc(){
-        echo "dsadasdafdadddddddddsdsaadsadadfdsdfsdfdsdss";
+        echo "dsadasdafdadddddddddsdsaadsdsdsdsadadfdsdfsdfdsdss";
+        echo "dsadasdafdadddddddddsdsaadsdsdsdsadadfdsdfsdfdsdss";
     }
 }
