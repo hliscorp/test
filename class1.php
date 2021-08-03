@@ -3,6 +3,6 @@
 class class1
 {
     function cc(){
-        echo "fdfssssssssss";
+        echo "fdfssssssssssss";
     }
 }
